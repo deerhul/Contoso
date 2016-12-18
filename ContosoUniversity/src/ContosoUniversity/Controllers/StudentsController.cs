@@ -170,10 +170,10 @@ namespace ContosoUniversity.Controllers
             //    return NotFound();
             //}
 
-            if (id == null)
-            {
-                return NotFound();
-            }
+            //if (id == null)
+            //{
+            //    return NotFound();
+            //}
 
             //if (ModelState.IsValid)
             //{
