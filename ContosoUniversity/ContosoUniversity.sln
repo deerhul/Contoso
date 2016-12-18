@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{186E5371-5A3D-472F-BAED-D84C20605169}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ContosoUniversity", "src\ContosoUniversity\ContosoUniversity.xproj", "{A3CDEC3C-C699-41A1-92C6-FE5F6D30454E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3CDEC3C-C699-41A1-92C6-FE5F6D30454E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CDEC3C-C699-41A1-92C6-FE5F6D30454E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CDEC3C-C699-41A1-92C6-FE5F6D30454E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CDEC3C-C699-41A1-92C6-FE5F6D30454E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3CDEC3C-C699-41A1-92C6-FE5F6D30454E} = {186E5371-5A3D-472F-BAED-D84C20605169}
+	EndGlobalSection
+EndGlobal
